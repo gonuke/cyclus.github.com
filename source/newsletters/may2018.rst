@@ -42,6 +42,9 @@ Gyu Tae Park received an undergrad research award for his geopositioning work wi
 
 Dr. Paul Whitney from Pacific Northwest National Laboratory visited `CNERG <http://cnerg.engr.wisc.edu>`_ at the University of Wisconsin-Madison as a `Consortium for Verification Technology <https://cvt.engin.umich.edu>`_ Lab Fellow to discuss the use of Cyclus as part of an ongoing effort to simulate misuse and diversion in nuclear fuel cycles.  This use case is similar to the work funded by the CVT project at UW-Madison and Dr. Whitney bring valuable experience with applying machine learning and decision analysis methodologies to this problem.
 
+Baptiste Mouginot from `CNERG <http://cnerg.engr.wisc.edu>`_ at the University of Wisconsin-Madison visited the group of Nuclear Verification and Disarmament at `Aachen Institute for Advanced Study in Computational Engineering Science <www.aices.rwth-aachen.de>`_ to discuss the use of Cyclus for Nuclear Archaeology and contribution to Acquisition Path Analysis. Nuclear Archaeology is a topic a research which attempt to reconstruct the past fissile material production. The Acquisition Path Analysis attempts to analyse all the plausible Acquisition Path (sequence of activities which a State could follow to acquire a weapons usable materials) used by IAEA to determine whether proposed safeguard measures are sufficient.
+
+
 Publications
 ============
 
